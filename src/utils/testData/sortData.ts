@@ -102,4 +102,12 @@ export const expectedAscArray = [
     address: '123st test',
     price: 200,
   },
+  {
+    orderId: 66,
+    ordered: 'test',
+    status: 'open',
+    shipingDate: 'today',
+    address: '123st test',
+    price: 200,
+  },
 ];
